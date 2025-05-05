@@ -5,14 +5,6 @@
 ---
 Welcome to Cricket Weapon, an e-commerce shopping app built using the MERN (MongoDB, Express, React, Node.js) stack and Material-UI (MUI) for the user interface. This project provides both normal user and admin modes, offering a wide range of features to enhance the shopping experience.
 
-## Demo
-
-### Normal User Area
-
-https://github.com/MehraDevesh2022/CricketWeapon-Store/assets/96515074/d8eb6147-aed7-42c5-8d1f-0afcf6d05689
-
-### Admin Area
-https://github.com/MehraDevesh2022/CricketWeapon-Store/assets/96515074/bfc07258-0a0a-4840-b277-25dceafb4795
 
 ## Dummy User Accounts
 
